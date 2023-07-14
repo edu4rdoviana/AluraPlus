@@ -107,14 +107,14 @@ body{
 }
 
 .terceiro{
-    align-items: center;
+    text-align: center;
 }
 
 .terceiro__lista{
     display:flex;
     justify-content: center;
     list-style-type: none;
-    margin:5em 0;
+    margin:8em 0 0 8em;
 }
 
 .terceiro__titulo{
